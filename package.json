@@ -9,5 +9,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "ejs": "^5.0.1",
+    "express": "^5.2.1",
+    "node": "^22.22.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adedigbagoodness-ggg/classlevel3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adedigbagoodness-ggg/classlevel3/issues"
+  },
+  "homepage": "https://github.com/adedigbagoodness-ggg/classlevel3#readme"
 }
